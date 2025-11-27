@@ -18,7 +18,7 @@ const ClotheDetails = () => {
     <div className="w-full min-h-screen bg-gray-50 flex justify-center py-16 px-6">
       <div className="bg-white shadow-xl rounded-2xl p-6 md:p-10 max-w-4xl w-full grid grid-cols-1 md:grid-cols-2 gap-10">
 
-        {/* IMAGE */}
+      
         <div className="flex justify-center">
           <img
             src={product.img}
@@ -27,7 +27,7 @@ const ClotheDetails = () => {
           />
         </div>
 
-        {/* DETAILS */}
+      
         <div className="flex flex-col space-y-4">
 
           <h2 className="text-3xl font-bold text-gray-800">

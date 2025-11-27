@@ -2,7 +2,7 @@ import React from 'react'
 import { BrowserRouter as Router, Routes, Route} from "react-router-dom"
 import './App.css'
 import Home from './component/Home'
-import ClotheDetails from './component/pages,/clotheDetails'
+import ClotheDetails from './component/pages/ClotheDetails'
 import NavBar from './component/Navbar'
 import Shop from './component/Shop'
 
